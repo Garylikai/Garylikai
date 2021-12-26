@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Garylikai.
 - 👀 I’m interested in mathematics, statistics, data science, computer science, and economics.
-- 🌱 I’m currently a graduate student at Stony Brook University studying statistics.
+- 🌱 I’m currently a statistics graduate student at Stony Brook University.
 - 💞️ My academic website is [https://garylikai.github.io/](https://garylikai.github.io/).
 - 📫 Feel free to reach me at kai.li@stonybrook.edu.
 
