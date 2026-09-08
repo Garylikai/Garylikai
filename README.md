@@ -8,13 +8,13 @@ I am a Ph.D. candidate in Applied Mathematics and Statistics on the Statistics T
 - **RL-QESA:** Co-first author of an AI for Math Workshop at ICML 2025 paper on reinforcement-learning-guided temperature control for simulated annealing. [Paper](https://openreview.net/pdf?id=4eAAIIBt3Q) · [Publication page](https://github.com/Garylikai/rl-qesa)
 - **Reinforcement learning for blackjack:** Co-first author of a manuscript in preparation comparing six reinforcement learning algorithms across progressively expanded action spaces, building on a 2025 pilot comparison of Monte Carlo control and proximal policy optimization.
 
-I have also conducted a literature-based technical study of reinforcement learning for climate-model parameterization and multiagent adaptation to sea-level rise.
+I have also conducted a literature-based technical study of reinforcement learning for climate model parameterization and multiagent adaptation to sea-level rise.
 
 ## Methods and tools
 
 **Research methods:** Markov decision processes, Monte Carlo methods, temporal-difference learning, deep Q-networks, proximal policy optimization, simulation, experimental design, statistical modeling, and time series analysis
 
-**Programming and research tools:** Python, R, SQL, Gymnasium, Stable-Baselines3, Git/GitHub, and LaTeX
+**Programming and research tools:** Python, R, SQL, Gymnasium, Stable-Baselines3, Git and GitHub, and LaTeX
 
 ## Teaching
 
