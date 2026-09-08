@@ -5,8 +5,8 @@ I am a Ph.D. candidate in Applied Mathematics and Statistics on the Statistics T
 ## Research
 
 - **Cumulative tic-tac-toe:** First author of a peer-reviewed *Stats* article combining combinatorial game theory with temporal-difference reinforcement learning. [Article](https://doi.org/10.3390/stats9020028) · [Official implementation](https://github.com/Garylikai/cumulative-tictactoe)
-- **RL-QESA:** Co-first author of an AI for Math Workshop at ICML 2025 paper on reinforcement learning-guided temperature control for simulated annealing. [Paper](https://openreview.net/pdf?id=4eAAIIBt3Q) · [Publication page](https://github.com/Garylikai/rl-qesa)
-- **Reinforcement learning for blackjack:** Co-first author of a manuscript in preparation comparing six reinforcement learning algorithms across progressively expanded action spaces.
+- **RL-QESA:** Co-first author of an AI for Math Workshop at ICML 2025 paper on reinforcement-learning-guided temperature control for simulated annealing. [Paper](https://openreview.net/pdf?id=4eAAIIBt3Q) · [Publication page](https://github.com/Garylikai/rl-qesa)
+- **Reinforcement learning for blackjack:** Co-first author of a manuscript in preparation comparing six reinforcement learning algorithms across progressively expanded action spaces, building on a 2025 pilot comparison of Monte Carlo control and proximal policy optimization.
 
 I have also conducted a literature-based technical study of reinforcement learning for climate-model parameterization and multiagent adaptation to sea-level rise.
 
